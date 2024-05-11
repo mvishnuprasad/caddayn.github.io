@@ -10,12 +10,15 @@ We are a leading provider of innovative business solutions, dedicated to empower
 
 
 Our ERP solutions encompass a wide range of features designed to centralize business processes.
-<span style="font-size:12em;">Integrated Modules</span>
+
+\\Integrated Modules\\
 
 ERP systems offer integrated modules for various business functions like accounting, human resources, inventory management, sales, and more.
 
-Real-time Data
+\\Real-time Data\\
+
 We provide real-time data access and analytics, allowing businesses to make informed decisions based on accurate information.
 
-Automation
+\\utomation\\
+
 We automates repetitive tasks such as invoicing, reporting, and payroll processing, reducing manual errors and improving efficiency.
